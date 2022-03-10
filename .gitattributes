@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-ciao francesc a
+def ciao():
+  return 'ciao'
