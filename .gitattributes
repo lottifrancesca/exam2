@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-ciao francesc a
+for i in range(9):
+  print(i)
+print('ciao')
