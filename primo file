@@ -1,1 +1,4 @@
 rob prova a cambiare quest
+for i in range(9):
+  print(i)
+  
